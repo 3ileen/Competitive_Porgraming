@@ -1,0 +1,3 @@
+/home/eileen/Escritorio/Competitive_Porgraming/cmake-build-debug/CMakeFiles/Competitive_Porgraming.dir
+/home/eileen/Escritorio/Competitive_Porgraming/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eileen/Escritorio/Competitive_Porgraming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
